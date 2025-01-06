@@ -1,0 +1,10 @@
+streamlit
+pypdf
+langchain
+faiss-cpu
+boto3
+python-dotenv
+langchain==0.1.4
+langchain-community==0.0.16
+langchain-core==0.1.23
+langchain-openai==0.0.6
