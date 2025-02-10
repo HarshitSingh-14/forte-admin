@@ -11,12 +11,7 @@ style-admin/
 ├── Dockerfile
 ├── README.md
 ├── requirements.txt
-└── src/
-    ├── __init__.py
-    ├── admin.py
-    ├── s3_utils.py
-    ├── text_processing.py
-    └── vector_store.py
+└── app.py
 ```
 
 ## Functionality
